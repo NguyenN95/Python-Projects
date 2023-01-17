@@ -77,6 +77,7 @@ Repository contains:
 ### Built With
 
 * [![Python][Python]][Python-url]
+* [![Flask][Flask]][Flask-url]
 * [![Selenium][Selenium]][Selenium-url]
 * [![Pandas][Pandas]][Pandas-url]
 * [![Numpy][Numpy]][Numpy-url]
@@ -228,3 +229,6 @@ Project Link: [https://github.com/BabyfaceDeveloper/Python-Projects](https://git
 
 [NumPy]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
 [NumPy-url]: https://numpy.org/
+
+[Flask]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
+[Flask-url]: https://flask.palletsprojects.com/en/2.2.x/
